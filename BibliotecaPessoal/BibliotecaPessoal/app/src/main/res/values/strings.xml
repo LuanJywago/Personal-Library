@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Biblioteca Pessoal</string>
+
+    <!-- Menu inferior -->
+    <string name="menu_livros">Livros</string>
+    <string name="menu_novo">Novo</string>
+    <string name="menu_resumo">Resumo</string>
+
+    <!-- Títulos das telas -->
+    <string name="titulo_lista">Meus Livros</string>
+    <string name="titulo_cadastro">Cadastro de Livro</string>
+    <string name="titulo_editar_livro">Editar Livro</string>
+    <string name="titulo_resumo">Resumo da Biblioteca</string>
+
+    <!-- Subtítulos dos cabeçalhos -->
+    <string name="subtitulo_lista">Toque para editar • Segure para excluir</string>
+    <string name="subtitulo_cadastro">Preencha os dados do novo livro</string>
+    <string name="subtitulo_editar">Altere os dados e toque em Atualizar</string>
+    <string name="subtitulo_resumo">Indicadores do seu acervo</string>
+
+    <!-- Lista vazia -->
+    <string name="lista_vazia_titulo">Nenhum livro cadastrado</string>
+    <string name="lista_vazia_mensagem">Toque em Novo, no menu abaixo, para adicionar o primeiro livro.</string>
+
+    <!-- Formulário -->
+    <string name="hint_titulo">Título do livro</string>
+    <string name="hint_autor">Autor</string>
+    <string name="hint_ano">Ano de publicação</string>
+    <string name="chk_lido">Já li este livro</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_atualizar">Atualizar</string>
+
+    <!-- Erros de validação -->
+    <string name="erro_titulo_obrigatorio">Informe o título do livro</string>
+    <string name="erro_autor_obrigatorio">Informe o autor do livro</string>
+    <string name="erro_ano_obrigatorio">Informe o ano de publicação</string>
+    <string name="erro_ano_invalido">O ano deve estar entre 1450 e %1$d</string>
+
+    <!-- Item da lista -->
+    <string name="item_autor_ano">%1$s • %2$d</string>
+    <string name="status_lido">Lido</string>
+    <string name="status_nao_lido">Não lido</string>
+    <string name="placeholder_titulo">Título</string>
+    <string name="placeholder_autor_ano">Autor • Ano</string>
+
+    <!-- Mensagens (Toast) -->
+    <string name="msg_salvo_sucesso">Livro cadastrado com sucesso!</string>
+    <string name="msg_salvo_erro">Erro ao cadastrar o livro</string>
+    <string name="msg_atualizado_sucesso">Livro atualizado com sucesso!</string>
+    <string name="msg_atualizado_erro">Erro ao atualizar o livro</string>
+    <string name="msg_excluido_sucesso">Livro excluído com sucesso!</string>
+    <string name="msg_excluido_erro">Erro ao excluir o livro</string>
+
+    <!-- Diálogo de exclusão -->
+    <string name="dialog_excluir_titulo">Confirmar exclusão</string>
+    <string name="dialog_excluir_mensagem">Deseja excluir o livro \"%1$s\"?</string>
+    <string name="dialog_sim">Sim</string>
+    <string name="dialog_nao">Não</string>
+
+    <!-- Resumo -->
+    <string name="resumo_total">Total de livros</string>
+    <string name="resumo_lidos">Livros lidos</string>
+    <string name="resumo_nao_lidos">Livros não lidos</string>
+    <string name="resumo_numero">%1$d</string>
+    <string name="resumo_progresso_titulo">Progresso de leitura</string>
+    <string name="resumo_progresso">%1$d%% do acervo já foi lido</string>
+</resources>

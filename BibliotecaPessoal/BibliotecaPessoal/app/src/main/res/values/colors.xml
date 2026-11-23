@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="branco">#FFFFFFFF</color>
+    <color name="fundo">#FFF7F4F8</color>
+
+    <!-- Cores principais -->
+    <color name="rosa">#FFE91E63</color>
+    <color name="rosa_escuro">#FFAD1457</color>
+    <color name="rosa_claro">#FFFCE4EC</color>
+    <color name="roxo">#FF9C27B0</color>
+
+    <!-- Textos -->
+    <color name="texto_principal">#FF212121</color>
+    <color name="texto_secundario">#FF6B6B6B</color>
+    <color name="texto_cabecalho_sub">#E6FFFFFF</color>
+
+    <!-- Status de leitura -->
+    <color name="verde_lido">#FF2E7D32</color>
+    <color name="verde_claro">#FFE8F5E9</color>
+    <color name="cinza_nao_lido">#FF757575</color>
+    <color name="cinza_claro">#FFEEEEEE</color>
+</resources>

@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BibliotecaPessoal" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/rosa</item>
+        <item name="colorOnPrimary">@color/branco</item>
+        <item name="colorPrimaryContainer">@color/rosa_claro</item>
+        <item name="colorSecondary">@color/roxo</item>
+        <!-- Cor da "pílula" do item selecionado no menu inferior -->
+        <item name="colorSecondaryContainer">@color/rosa_claro</item>
+        <item name="colorOnSecondaryContainer">@color/rosa_escuro</item>
+        <item name="android:windowBackground">@color/fundo</item>
+    </style>
+
+    <style name="Theme.BibliotecaPessoal" parent="Base.Theme.BibliotecaPessoal" />
+</resources>
